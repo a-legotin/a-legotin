@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <h3>🚀 .NET Core, Docker, Kuberneted</h3>
+   <h3>🚀 .NET Core, Angular, Docker, Kubernetes</h3>
 </div>
 <hr/>
 
@@ -13,5 +13,6 @@
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=a-legotin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-
+<div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-legotin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+</div>
