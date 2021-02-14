@@ -14,5 +14,5 @@
 <hr/>
 
 <div align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-legotin&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=a-legotin&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&hide=contribs&theme=graywhite" />
 </div>
